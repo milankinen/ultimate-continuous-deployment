@@ -1,4 +1,4 @@
-# A script for serious continuous deployment
+# Ultimate continuous deployment
 
 Continuos deployment is a hot keyword in today's software engineering.
 However, preparing such deployment systems require time and knowledge.

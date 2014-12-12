@@ -16,7 +16,7 @@ execution of this script! ;)
 
 ## Installation
 
-    sudo sh -c 'curl https://raw.githubusercontent.com/milankinen/continuous-deployment/master/script.bash > /usr/bin/deploy-continuously && chmod 755 /usr/bin/deploy-continuously'
+    sudo sh -c 'curl https://raw.githubusercontent.com/milankinen/ultimate-continuous-deployment/master/script.bash > /usr/bin/deploy-continuously && chmod 755 /usr/bin/deploy-continuously'
 
 
 ## Usage
